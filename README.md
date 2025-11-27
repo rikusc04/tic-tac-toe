@@ -37,7 +37,7 @@ To get the game running on your local machine, follow these steps:
       ```bash
       git clone <repository-url>
       ```
-2. Navigate to the project directory:** Move into the newly created folder:
+2. Navigate to the project directory:
       ```bash
       cd "Tic-Tac-Toe"
       ```
