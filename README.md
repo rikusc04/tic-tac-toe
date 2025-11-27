@@ -1,4 +1,4 @@
-# tic-tac-toe
+# Tic-Tac-Toe
 This is a tic-tac-toe Python simulation featuring an AI opponent using the minimax algorithm with alpha-beta pruning. Note that the AI plays optimally, meaning, it will either win or force a draw.
 
 Features:
